@@ -38,7 +38,7 @@ Projeto desenvolvido durante o curso da **Rocketseat**, com o objetivo de **prat
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/Andersondev123/expense-control.git
+   git clone https://github.com/Andersondev123/refund.git
 
 2. Acesse a pasta do projeto:
 
