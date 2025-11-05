@@ -26,10 +26,10 @@ Projeto desenvolvido durante o curso da **Rocketseat**, com o objetivo de **prat
 
 ### 🧠 Conceitos praticados
 
-- Manipulação do **DOM**
-- **Eventos** (`onSubmit`, `onClick`, `onInput`)
-- Conversão e formatação de valores (`parseFloat`, `toLocaleString`)
-- Criação e remoção dinâmica de elementos HTML
+- Manipulação do **DOM**  
+- **Eventos** (`onSubmit`, `onClick`, `onInput`)  
+- Conversão e formatação de valores (`parseFloat`, `toLocaleString`)  
+- Criação e remoção dinâmica de elementos HTML  
 - Organização de código e uso de **funções** com **parâmetros**
 
 ---
@@ -40,9 +40,10 @@ Projeto desenvolvido durante o curso da **Rocketseat**, com o objetivo de **prat
    ```bash
    git clone https://github.com/Andersondev123/refund.git
 
+
 2. Acesse a pasta do projeto:
 
-cd expense-control
+cd refund
 
 3. Abra o arquivo index.html no navegador
 ou utilize a extensão Live Server no VSCode.
