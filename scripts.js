@@ -59,7 +59,7 @@ function expenseAdd(newExpense){
 
         const removeIcon = document.createElement("img");
         removeIcon.classList.add("remove-icon")
-        removeIcon.setAttribute("src", `/img/remove.svg`);
+        removeIcon.setAttribute("src", `img/remove.svg`);
         expenseIcon.setAttribute("alt", "Remover");
 
         expenseInfo.append(expenseName, expenseCategory);
