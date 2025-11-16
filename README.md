@@ -34,16 +34,16 @@ Projeto desenvolvido durante o curso da **Rocketseat**, com o objetivo de **prat
 
 ---
 
-### 🚀 Como rodar o projeto
+## 🚀 Como rodar o projeto
 
-1. **Clone este repositório:**
+ ### Clone este repositório:
    ```bash
    git clone https://github.com/Andersondev123/refund.git
+   ```
 
-
-2. Acesse a pasta do projeto:
-
+### Acesse a pasta do projeto:
+```bash
 cd refund
-
-3. Abra o arquivo index.html no navegador
+```
+ Abra o arquivo index.html no navegador
 ou utilize a extensão Live Server no VSCode.
